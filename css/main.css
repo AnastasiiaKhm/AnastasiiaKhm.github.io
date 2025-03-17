@@ -290,13 +290,13 @@ Primary use:
 
 /*//////////////////////////////////////////////////////////////////
 [ Background ]*/
-.bg0 {background-color: #fff;}
-
 .bg-img1 {
+  background-color: #ffffff;  /* Білий фон */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 
 
