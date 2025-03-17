@@ -291,7 +291,8 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ Background ]*/
 .bg-img1 {
-  background-color: #ffffff;  /* Білий фон */
+  background-color: #ffffff;
+  background-image: none;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
