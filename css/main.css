@@ -229,7 +229,7 @@ Primary use:
 .s1-txt1 {
   font-family: Montserrat-Bold;
   font-size: 14px;
-  color: #fff;
+  color: #000;
   line-height: 1;
   text-transform: uppercase;
 }
@@ -245,7 +245,7 @@ Primary use:
 .l1-txt1 {
   font-family: Montserrat-Thin;
   font-size: 50px;
-  color: #fff;
+  color: #000;
   line-height: 1.1;
   text-transform: uppercase;
   letter-spacing: 10px;
